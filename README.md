@@ -61,13 +61,13 @@ Built and owned the frontend mobile app solo — screens, navigation, API/socket
 
 <!-- Add images to a screenshots/ folder and reference them below -->
 
-| Onboarding Flow | Swipe Discovery | Map & Filter Search |
+| Swipe Discovery | Map & Filter Search | Filters |
 |---|---|---|
-| ![Onboarding](./screenshots/onboarding.png) | ![Swipe](./screenshots/swipe.png) | ![Map search](./screenshots/map-search.png) |
+| ![swipe](./screenshots/swipe.jpeg) | ![Filter](./screenshots/filter.jpeg) | ![Map search](./screenshots/map.jpeg) |
 
 | Real-Time Chat | Video Call | Premium/Offers |
 |---|---|---|
-| ![Chat](./screenshots/chat.png) | ![Video call](./screenshots/video-call.png) | ![Premium](./screenshots/premium.png) |
+| ![Chat](./screenshots/conversation.jpeg) | ![Video call](./screenshots/call.jpeg) | ![Premium](./screenshots/paid.jpeg) |
 
 ## What I'd Improve Next
 
