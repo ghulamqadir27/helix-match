@@ -68,8 +68,3 @@ Built and owned the frontend mobile app solo — screens, navigation, API/socket
 | Real-Time Chat | Video Call | Premium/Offers |
 |---|---|---|
 | ![Chat](./screenshots/conversation.jpeg) | ![Video call](./screenshots/call.jpeg) | ![Premium](./screenshots/paid.jpeg) |
-
-## What I'd Improve Next
-
-- Move the polling→WebSocket handshake to a pure WebSocket connection with a lighter reconnect/backoff strategy
-- Add end-to-end encryption for chat given the sensitivity of the data involved
